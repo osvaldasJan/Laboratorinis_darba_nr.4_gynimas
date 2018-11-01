@@ -1,0 +1,7 @@
+Audi
+100
+geltona
+2005
+5
+98750
+false
