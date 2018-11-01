@@ -97,7 +97,7 @@ public class Main {
                     automobilis.get(i).getRida(),
                     automobilis.get(i).isElektromobilis()
             );
-        }
+        }//
     }
 
     public static void atspausdintiAutomobiliuSarasoAntraste() {
